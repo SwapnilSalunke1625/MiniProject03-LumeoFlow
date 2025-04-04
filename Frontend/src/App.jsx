@@ -1,11 +1,15 @@
 import React from "react"
+import AdminSignUp from "./Pages/AdminSignUp"
 
 function App() {
  
 
   return (
     <>
-    <h1>hello</h1>
+    
+    <AdminSignUp/>
+    
+
       
     </>
   )
