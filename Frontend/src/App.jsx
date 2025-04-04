@@ -1,14 +1,18 @@
-import React from "react"
+import React from "react";
+import Adminsignin from './pages/Adminsignin';
 
-function App() {
+
  
 
+function App() {
   return (
-    <>
-    <h1>hello</h1>
-      
-    </>
-  )
+    <div>
+      <Adminsignin/>
+    </div>
+  );
 }
 
-export default App
+export default App;
+
+
+
