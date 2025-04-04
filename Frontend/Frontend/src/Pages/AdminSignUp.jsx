@@ -1,6 +1,5 @@
 import React from "react";
 import { useState } from "react";
-import { Link } from "react-router-dom";
 
 export default function AdminSignUp() {
   const [formData, setFormData] = useState({
@@ -127,9 +126,9 @@ export default function AdminSignUp() {
             </button>
             <p className="text-center text-gray-600 ">
               Already have an account?{" "}
-              <Link to="/" className="text-blue-600 hover:underline">
+              <a href="/login" className="text-blue-600 hover:underline">
                 Log in
-              </Link>
+              </a>
             </p>
           </form>
         </div>

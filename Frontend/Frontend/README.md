@@ -1,10 +1,6 @@
-# MiniProject03-LumeoFlow
+# React + Vite
 
-LumeoFlow is an IoT-powered electricity tracking system that provides real-time insights into energy consumption. It helps users monitor usage, receive alerts, and optimize power efficiency, ensuring smarter and more sustainable energy management.
-
-## React + Vite Setup
-
-This project uses React with Vite, providing a minimal setup with HMR and ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
